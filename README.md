@@ -26,7 +26,6 @@
 
 ## 🌱 Atualmente aprendendo
 
-- Angular e TypeScript
 - Práticas DevOps e automação de infraestrutura
 - Avançando nos estudos de estruturas de dados e arquitetura de software
 
