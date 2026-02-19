@@ -1,42 +1,105 @@
-# 👋 Olá! Eu sou Pedro
+<p>👨‍💻 Backend developer in training, com experiência prática em automações, APIs e desenvolvimento de aplicações.</p>
 
-🎓 Estudante de Ciência da Computação com foco em desenvolvimento de software e sólida experiência prática em Java, Python e banco de dados. Atualmente atuando na área de infraestrutura de TI, com envolvimento direto em virtualização de ambientes, permissionamento NTFS, Active Directory, servidores de acesso remoto e soluções em nuvem.
+<p>🎓 Estudante de Ciência da Computação na UNIVALI</p>
 
----
+<p>🏢 Atualmente atuando com infraestrutura e desenvolvimento interno de soluções, criando automações corporativas, integrações com APIs e ferramentas que apoiam operações reais.</p>
 
-## 💻 Habilidades Técnicas
+<p>☁️ Experiência prática com cloud, containerização e infraestrutura como código em projetos pessoais.</p>
 
-- **Linguagens:** Java, Python, C++
-- **Frameworks:** Spring Boot, JDBC
-- **Banco de Dados:** MySQL, MongoDB
-- **Ferramentas e Conceitos:** Git, GitHub, Active Directory, NTFS, VPN, Cloud, Virtualização
-- **Práticas de programação:** Padrões de projeto, lógica de programação, estruturas de dados e algoritmos
+<p>🧠 Interesse principal em arquitetura backend, automação de processos, DevOps e construção de aplicações ponta-a-ponta.</p>
 
----
+<hr>
 
-## 📚 Repositórios em Destaque
+### 🧱 Engenharia e práticas
 
-🔹 [**ms-course**](https://github.com/pedrxbro/ms-course) – Projeto em Java com foco em microsserviços  
-🔹 [**workshop-springboot-mongodb**](https://github.com/pedrxbro/workshop-springboot-mongodb) – CRUD completo com Spring Boot e MongoDB  
-🔹 [**chess-system-java**](https://github.com/pedrxbro/chess-system-java) – Projeto de lógica e OOP com o jogo de xadrez em Java  
-🔹 [**introduction-to-spring**](https://github.com/pedrxbro/introduction-to-spring) – Introdução prática ao framework Spring  
-🔹 [**sorting-algorithms**](https://github.com/pedrxbro/sorting-algorithms) – Algoritmos de ordenação implementados em C++
+- Arquitetura em camadas (Controller, Service, Repository, DTO)
+- Clean Code e separação de responsabilidades
+- APIs REST e integração entre sistemas
+- Versionamento estruturado com Gitflow
+- Containerização com Docker
+- Infraestrutura como código (Terraform)
+- Segurança básica em APIs (JWT)
 
----
+<hr>
 
-## 🌱 Atualmente aprendendo
+### 🚀 Projetos principais
 
-- Práticas DevOps e automação de infraestrutura
-- Avançando nos estudos de estruturas de dados e arquitetura de software
+### 🔗 URL Shortener
 
----
+Aplicação full-stack com arquitetura distribuída e deploy em nuvem.
 
-## 📫 Contato
+**Backend:**  
+https://github.com/pedrxbro/url-shortner-challenge  
 
-- E-mail: pedrohdpaula20@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pedro-henrique-depaula/
+**Frontend:**  
+https://github.com/pedrxbro/url-shortner-frontend  
 
----
+**Infraestrutura (Terraform + Docker):**  
+https://github.com/pedrxbro/url-shortner-infra  
 
-🚀 Buscando oportunidades para atuar como **Desenvolvedor de Software**, onde possa aplicar meus conhecimentos técnicos, continuar aprendendo e crescer com desafios reais.
+Stack: Spring Boot • React • MongoDB • Docker • AWS EC2 • Terraform  
 
+<br>
+
+### 🔗 Sistema de Registro de Ponto
+
+MVP corporativo simulando cenário real de aplicação empresarial, com autenticação, regras de negócio e organização orientada a times.
+
+**Backend:**  
+https://github.com/joaogubertt/batPonto  
+
+**Frontend:**  
+https://github.com/joaogubertt/batPonto-frontend  
+
+**Infraestrutura:**  
+https://github.com/pedrxbro/batponto-infra *(em evolução)*  
+
+Stack: Spring Boot • JWT • PostgreSQL • Flyway • React • TypeScript • Docker • Gitflow
+
+
+### 🔬 Exploração atual
+
+- Arquitetura backend e design de serviços
+- Automação com Python aplicada a problemas reais
+- DevOps e deploy de aplicações
+- Integração entre sistemas corporativos
+- Observabilidade e operação de aplicações
+
+<hr>
+
+### ⚙️ Tech Stack
+
+#### 🧠 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ⚙️ DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge)
+
+<hr>
+
+<p>📫 Contato:</p>
+<p>
+<a href="https://www.linkedin.com/in/pedro-henrique-depaula/" target="_blank">LinkedIn</a> • 
+<a href="mailto:pedrohdpaula20@gmail.com">Email</a>
+</p>
