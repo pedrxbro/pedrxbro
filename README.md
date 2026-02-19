@@ -39,7 +39,6 @@ https://github.com/pedrxbro/url-shortner-infra
 
 Stack: Spring Boot • React • MongoDB • Docker • AWS EC2 • Terraform  
 
-<br>
 
 ### 🔗 Sistema de Registro de Ponto
 
