@@ -2,7 +2,7 @@
 
 <p>🎓 Estudante de Ciência da Computação na UNIVALI</p>
 
-<p>🏢 Atualmente atuando com infraestrutura e desenvolvimento interno de soluções, criando automações corporativas, integrações com APIs e ferramentas que apoiam operações reais.</p>
+<p>🏢 Atualmente atuando com desenvolvimento interno de soluções, criando automações corporativas, integrações com APIs e ferramentas que apoiam operações reais.</p>
 
 <p>☁️ Experiência prática com cloud, containerização e infraestrutura como código em projetos pessoais.</p>
 
